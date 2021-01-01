@@ -1,0 +1,9 @@
+#what i want to do this in this project is that i want to build an python automation that sends notification to my mobile at particular times notifying of things that i want to do on daily basis
+#for example when i woke up about 7 AM in the mrng the program should send a notification to my mobile saying that i need to meditate for 5mins
+#after that plead my infinite intelligence
+#take a walk 
+#after coming from the classes meditate and walk again 
+#plead the infinite intelligence
+#should be reading coming from the dinner
+#from 11PM to 12PM should read a book 
+#should be sleeping right at 12PM take about take about 15mins.
